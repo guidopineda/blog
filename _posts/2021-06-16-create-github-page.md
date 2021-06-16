@@ -7,4 +7,4 @@ The purpose of this post is to show how to create a static website on Github Pag
 
 # Step by step
 
-Before we need to fork a [http://jekyllthemes.org/](Jekyll) template. 
+Before we need to fork a [Jekyll](http://jekyllthemes.org/ "Jekyll Themes") template.
