@@ -6,6 +6,10 @@ entries:
     entries:
       - title: Instagram
         url: https://instagram.com/guidopineda
+      - title: Twitter
+        url: https://twitter.com/guidopineda
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/guidopineda/
       
   - title: all posts
     post_list:
