@@ -22,6 +22,14 @@ theme_config:
 sass:
   style: :compressed
 
+social:
+  name: Guido Pineda
+  links:
+    - https://www.linkedin.com/in/guidopineda/
+    - https://twitter.com/GuidoPineda
+    - https://instagram.com/guidopineda
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
