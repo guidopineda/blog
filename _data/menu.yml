@@ -2,16 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Social Networks
-    entries:
-      - title: Instagram
-        url: https://instagram.com/guidopineda
-      - title: LinkedIn
-        url: https://www.linkedin.com/in/guidopineda/
+#  - title: Social Networks
+#    entries:
+#      - title: Instagram
+#        url: https://instagram.com/guidopineda
+#      - title: LinkedIn
+#        url: https://www.linkedin.com/in/guidopineda/
       
   - title: All Posts
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
       show_more_text: See Archive ->
       show_more_url: archive.html
