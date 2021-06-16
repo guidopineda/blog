@@ -6,35 +6,33 @@ entries:
     entries:
       - title: Instagram
         url: https://instagram.com/guidopineda
-      - title: Twitter
-        url: https://twitter.com/guidopineda
       - title: LinkedIn
         url: https://www.linkedin.com/in/guidopineda/
       
-  - title: all posts
+  - title: All Posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See Archive ->
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+#  - title: posts by category
+#    post_list:
+#      category: example2
+#      show_more: true
+#      show_more_text: See more posts...
+#      show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#  - title: another list
+#    entries:
+#      - title: with subitems
+#        entries:
+#          - title: with subsubitems
+#          - title: example page
+#            url: about
+#  - title: PRO TIP
+#    entries:
+#      - title: to edit this menu, edit _data/menu.yml file
