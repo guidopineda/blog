@@ -23,12 +23,7 @@ entries:
       show_more_text: See more posts ->
       show_more_url: linux-posts.html
 
-  - title: Posts by Category
-    post_list:
-      category: Open Source
-      show_more: true
-      show_more_text: See more posts ->
-      show_more_url: opensource-posts.html    
+  
    
 
 #  - title: posts by category
