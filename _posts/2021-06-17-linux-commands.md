@@ -54,7 +54,7 @@ Synchronizes files or directories. It can be useful to copy multiple files at on
 
 #### Usage
 
-## rsync (options) <source> <destination>
+rsync (options) <source> <destination>
 
 #### Useful options
 
