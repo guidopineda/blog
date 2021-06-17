@@ -25,7 +25,7 @@ This command allows you to copy files
 
 #### Usage
 
-cp <file to copy> <destination>
+cp \<file to copy\> <destination>
 
 ## rm
 
@@ -33,7 +33,7 @@ Deletes files or directories
 
 #### Usage
 
-rm <file to delete>
+rm \<file to delete\>
 
 #### Useful options
 
@@ -46,7 +46,7 @@ Moves files and directories
 
 #### Usage
 
-mv <file or directory to move> <destination>
+mv \<file or directory to move\> \<destination\>
 
 ## rsync
 
@@ -54,7 +54,7 @@ Synchronizes files or directories. It can be useful to copy multiple files at on
 
 #### Usage
 
-rsync (options) <source> <destination>
+rsync (options) \<source\> \<destination\>
 
 #### Useful options
 
@@ -67,7 +67,7 @@ Creates an emtpy file
 
 #### Usage
 
-touch <name of file>
+touch \<name of file\>
 
 ## du
 
@@ -75,7 +75,7 @@ Shows the disk usage
 
 #### Usage
 
-## du (options) <directory>
+## du (options) \<directory\>
 
 #### Useful options
 
@@ -88,7 +88,7 @@ Shows information about a file
 
 #### Usage
 
-stat <file>
+stat \<file\>
 
 ## zip
 
@@ -96,7 +96,7 @@ File or directory compression
 
 #### Usage
 
-zip (options) <file of the compressed file> <file or directory to compress>
+zip (options) \<file of the compressed file\> \<file or directory to compress\>
 
 #### Useful options
 
@@ -108,7 +108,7 @@ Shows the content of the zipped file
 
 #### Usage
 
-zipinfo <file>
+zipinfo \<file\>
 
 ## tree
 
@@ -116,7 +116,7 @@ Shows a tree structure of a directory
 
 #### Usage
 
-tree <directory>
+tree \<directory\>
 
 ## find
 
@@ -124,7 +124,7 @@ Searches for a file or directory
 
 #### Usage
 
-find <directory where we want to find> (options)
+find \<directory where we want to find\> (options)
 
 #### Examples
 
@@ -146,7 +146,7 @@ Kills a process by name or process id
 
 #### Usage
 
-kill <name or process id> 
+kill \<name or process id\> 
 
 ## cat 
 
@@ -154,7 +154,7 @@ Shows the content of a file
 
 #### Usage
 
-cat <file>
+cat \<file\>
 
 ## grep
 
@@ -162,7 +162,7 @@ Filters the content of the text based on a given pattern
 
 #### Usage
 
-grep <pattern> <file>
+grep \<pattern\> \<file\>
 
 #### Useful options
 
@@ -174,7 +174,7 @@ Shows the available disk space
 
 #### Usage
 
-dh (options) <directory>
+dh (options) \<directory\>
 
 #### Useful options
 
