@@ -11,7 +11,7 @@ It lists the content of a directory.
 
 #### Usage
 
-ls <directory|file>
+ls <directory\|file>
 
 #### Useful options
 
