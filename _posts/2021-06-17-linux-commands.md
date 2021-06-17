@@ -38,6 +38,7 @@ rm \<file to delete\>
 #### Useful options
 
 -r: Recursive deletion
+  
 -f: Force deletion
 
 ## mv
