@@ -146,7 +146,7 @@ Kills a process by name or process id
 
 #### Usage
 
-kill <name|process id> 
+kill <name or process id> 
 
 ## cat 
 
