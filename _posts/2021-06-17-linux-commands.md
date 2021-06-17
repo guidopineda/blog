@@ -1,3 +1,8 @@
+---
+layout: post
+category: linux
+---
+
 This is a list of Linux commands you should know to manage your Linux servers
 
 ### ls
