@@ -16,7 +16,9 @@ ls \<directory or file\>
 #### Useful options
 
 -a: Lists hidden content
+
 -l: Lists the content as a list
+
 -h: Lists the content in a human readable way
 
 ## cp 
@@ -60,6 +62,7 @@ rsync (options) \<source\> \<destination\>
 #### Useful options
 
 -a: Archive mode
+  
 -v: Verbose
 
 ## touch
@@ -81,6 +84,7 @@ Shows the disk usage
 #### Useful options
 
 -s: Sum the amount of disk usage
+  
 -h: Show output in human readable format
 
 ## stat
